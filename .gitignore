@@ -1,0 +1,4 @@
+_extracted/
+*.py
+*.ps1
+.vercel/
